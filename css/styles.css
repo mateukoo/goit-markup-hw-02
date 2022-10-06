@@ -3,7 +3,9 @@
   --brand-secondary-color: #000000;
   --body-text-color: #757575; 
   --headline-color: #212121;
-
+  --background-color: #2F303A;
+  --background-color-2nd: #F5F4FA;
+  --white-color: #FFFFFF;
 }
 
 body {
@@ -48,7 +50,7 @@ line-height: 60px;
 text-align: center;
 letter-spacing: 0.06em;
 text-transform: uppercase;
-color: #FFFFFF;
+color: var(--white-color);
 }
 
 .secondary-headline {
@@ -92,7 +94,7 @@ color: var(--body-text-color);
     align-items: center;
     justify-content: center;
     letter-spacing: 0.06em;
-    color: #FFFFFF;
+    color: var(--white-color);
     cursor: pointer;
 }
 
@@ -121,7 +123,7 @@ font-size: 16px;
 line-height: 26px;
 text-align: center;
 letter-spacing: 0.03em;
-color: #FFFFFF;
+color: var(--white-color);
 cursor: pointer;
 }
 
@@ -155,7 +157,7 @@ color: var(--headline-color);
     font-size: 14px;
     line-height: 1.7;
     letter-spacing: 0.03em;
-    color: #FFFFFF;
+    color: var(--white-color);
 }
 
 .contact-link {
