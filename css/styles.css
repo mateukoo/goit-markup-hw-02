@@ -106,7 +106,7 @@ color: var(--body-text-color);
     align-items: center;
     justify-content: center;
     letter-spacing: 0.03em;
-    color: #212121;
+    color: var(--headline-color);
     cursor: pointer;
 }
 
