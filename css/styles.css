@@ -159,14 +159,13 @@ color: var(--headline-color);
 }
 
 .contact-link {
-    text-decoration: none;
-    color: var(--body-text-color);
-    font-family: 'Roboto';
     font-style: normal;
     font-weight: 500;
     font-size: 14px;
     line-height: 1.15;
     letter-spacing: 0.02em;
+    text-decoration: none;
+    color: var(--body-text-color);
 }
 
 .contact-link:hover {
