@@ -9,7 +9,7 @@
 }
 
 body {
-    font-family: "Roboto", sans-serif;  "Raleway", sans-serif;
+    font-family: "Roboto", sans-serif; 
     color: #212121; 
 }
 
@@ -46,7 +46,7 @@ body {
 .main-headline {
 font-weight: 900;
 font-size: 44px;
-line-height: 60px;
+line-height: 1.4;
 text-align: center;
 letter-spacing: 0.06em;
 text-transform: uppercase;
@@ -54,7 +54,6 @@ color: var(--white-color);
 }
 
 .secondary-headline {
-font-weight: 700;
 font-size: 36px;
 line-height: 1.2;
 text-align: center;
@@ -63,7 +62,6 @@ color: var(--headline-color);
 }
 
 .bodytext-headline {
-font-weight: 700;
 font-size: 14px;
 line-height: 1.1;
 letter-spacing: 0.03em;
@@ -72,7 +70,6 @@ color:  var(--headline-color);
 }
 
 .bodytext {
-font-weight: 400;
 font-size: 14px;
 line-height: 1.7;
 letter-spacing: 0.03em;
@@ -120,7 +117,7 @@ border: 0;
 border-radius: 4px;
 font-weight: 500;
 font-size: 16px;
-line-height: 26px;
+line-height: 1.6;
 text-align: center;
 letter-spacing: 0.03em;
 color: var(--white-color);
@@ -138,13 +135,12 @@ color: var(--headline-color);
 .work-position, .scope-of-work {
 font-weight: 400;
 font-size: 16px;
-line-height: 19px;
+line-height: 1.2;
 letter-spacing: 0.03em;
 color: var(--body-text-color);
 }
 
 .project-name {
-    font-weight: 700;
 font-size: 18px;
 line-height: 2;
 letter-spacing: 0.06em;
